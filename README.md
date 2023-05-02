@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamchoudharyshubh&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamchoudharyshubh" /> </p>
+
 # 💫 About Me:
 👋 Hi there, I'm Shubham, a web developer with experience in frontend and backend technologies.<br><br>🔭 i'm currently studying in secound year computer science and engineering<br><br>🌱 I’m currently learning node.js<br><br>📫 How to reach me: shubhamchoudharyshubh@gmail.com<br>
 
@@ -19,6 +21,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ShubhamChoudharyShubh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShubhamChoudharyShubh&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
