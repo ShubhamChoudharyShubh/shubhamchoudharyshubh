@@ -1,7 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamchoudharyshubh&label=Visitors%20&color=0e75b6&style=flat" alt="shubhamchoudharyshubh" /> </p>
 
 # 💫 About Me:
-👋 Hi there, I'm Shubham, a web developer with experience in frontend and backend technologies.<br><br>🔭 i'm currently studying in secound year computer science and engineering<br><br>🌱 I’m currently learning node.js<br><br>📫 How to reach me: shubhamchoudharyshubh@gmail.com<br>
+## Namaste 🙏, I'm Shubham!
+
+💼 B.Tech student specializing in Computer Science and Business Systems.
+
+💻 Full-stack web developer, graphic designer, and WordPress enthusiast.
+
+🎨 Creative mindset, always exploring new design trends.
+
+🌱 Constantly learning and seeking meaningful projects.
+
+Let's connect and explore exciting possibilities together! 🤝 shubhamchouhdaryshubh@gmail.com
 
 
 ## 🌐 Socials:
