@@ -11,7 +11,7 @@
 
 🌱 Constantly learning and seeking meaningful projects.
 
-Let's connect and explore exciting possibilities together! 🤝 shubhamchouhdaryshubh@gmail.com
+🤝 shubhamchouhdaryshubh@gmail.com
 
 
 ## 🌐 Socials:
