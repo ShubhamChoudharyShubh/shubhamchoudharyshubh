@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamchoudharyshubh&label=Visitors%20&color=0e75b6&style=flat" alt="shubhamchoudharyshubh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamchoudharyshubh&label=Visitors%20&color=blueviolet&style=for-the-badge" alt="shubhamchoudharyshubh" /> </p>
 
 # 💫 About Me:
 ## Namaste 🙏, I'm Shubham!
