@@ -55,19 +55,20 @@ I'm a passionate **B.Tech student** specializing in **Computer Science and Busin
 
 ---
 
-## 🔥 GitHub Activity Graph:
-[![Shubham's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🔥 GitHub Activity Graph & Top Languages:
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="49%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamChoudharyShubh&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamChoudharyShubh&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamChoudharyShubh&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamChoudharyShubh&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
 ---
