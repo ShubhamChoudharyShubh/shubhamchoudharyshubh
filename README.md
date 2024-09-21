@@ -13,16 +13,6 @@ I'm a passionate **B.Tech student** specializing in **Computer Science and Busin
 - 🤝 Open to collaborating on exciting and challenging web projects.
 - 📧 Reach me at: **shubhamchoudharyshubh@gmail.com**
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-choudhary-shubh) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YorShubham) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shubham7225)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamChoudharyShubh)
-
----
-
 ## 💻 Tech Stack:
 
 ### Frontend:
@@ -53,16 +43,12 @@ I'm a passionate **B.Tech student** specializing in **Computer Science and Busin
   <img src="https://img.shields.io/badge/elementor-%23d6336c.svg?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
----
-
 ## 🔥 GitHub Activity Graph & Top Languages:
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="63%" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="35%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="68%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="30%" alt="Top Languages" />
 </p>
-
----
 
 ## 📊 GitHub Stats:
 
@@ -70,8 +56,6 @@ I'm a passionate **B.Tech student** specializing in **Computer Science and Busin
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamChoudharyShubh&show_icons=true&theme=radical&hide_border=true" width="46.5%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamChoudharyShubh&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🔗 Profile Visits:
 <p align="left">
