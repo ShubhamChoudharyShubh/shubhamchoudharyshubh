@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="100%" height="320px" alt="Welcome GIF" />
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="100%" height="300px" alt="Welcome GIF" />
 </p>
 
 # 💫 About Me:
