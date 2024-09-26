@@ -5,21 +5,22 @@
 # 💫 About Me:
 ## Namaste 🙏, I'm Shubham!
 
-I'm a passionate **B.Tech student** specializing in **Computer Science and Business Systems**. As a **Full-stack Web Developer** and **WordPress enthusiast**, I enjoy building visually appealing and functional websites. I’m continuously learning and improving my skills with a strong focus on **modern web technologies**.
+I'm a passionate **B.Tech student** specializing in **Computer Science and Business Systems**. As a **Full-stack Web Developer** and **WordPress Enthusiast**, I enjoy building visually appealing and functional websites. I’m continuously learning and improving my skills with a strong focus on **modern web technologies**.
 
-- 🌱 Currently improving my skills in **React.js, Laravel, and PHP**.
+- 🌱 Currently honing skills in **React.js, Laravel, and PHP**.
 - 💼 Freelancing experience in **WordPress Development** and **Custom Websites**.
-- 🎨 I'm always exploring new **design trends** to create better user experiences.
+- 🎨 Exploring new **design trends** to enhance user experiences.
 - 🤝 Open to collaborating on exciting and challenging web projects.
-- 📧 Reach me at: **shubhamchoudharyshubh@gmail.com**
+- 📧 Contact me at: **shubhamchoudharyshubh@gmail.com**
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamChoudharyShubh) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-choudhary-shubh) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shubham7225) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YorShubham) 
 
 ## 💻 Tech Stack:
+
 <p align="left">
   <img src="https://img.shields.io/badge/Frontend:-black?style=for-the-badge&logoColor=black&color=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
