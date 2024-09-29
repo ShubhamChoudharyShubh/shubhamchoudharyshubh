@@ -52,7 +52,7 @@ I'm a passionate **B.Tech student** specializing in **Computer Science and Busin
 ## 🔥 GitHub Activity Graph & Top Languages:
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="72%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="71%" alt="GitHub Activity Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="27%" alt="Top Languages" />
 
 </p>
