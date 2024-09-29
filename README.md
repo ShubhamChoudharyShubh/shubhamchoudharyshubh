@@ -19,48 +19,53 @@ I'm a passionate **B.Tech student** specializing in **Computer Science and Busin
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shubham7225) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YorShubham) 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack and Top Languages:
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <p align="left">
+        <img src="https://img.shields.io/badge/Frontend:-black?style=for-the-badge&logoColor=black&color=white" />
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Backend:-black?style=for-the-badge&logoColor=black&color=white" />
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Tools%20&%20Platforms:-black?style=for-the-badge&logoColor=black&color=white" />
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+        <img src="https://img.shields.io/badge/wordpress-%230074A6.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/elementor-%23d6336c.svg?style=for-the-badge&logo=elementor&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+## 🔥 GitHub Activity Graph 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend:-black?style=for-the-badge&logoColor=black&color=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend:-black?style=for-the-badge&logoColor=black&color=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Tools%20&%20Platforms:-black?style=for-the-badge&logoColor=black&color=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/wordpress-%230074A6.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/elementor-%23d6336c.svg?style=for-the-badge&logo=elementor&logoColor=white" />
-</p>
-
-## 🔥 GitHub Activity Graph & Top Languages:
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="68%" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="30%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamChoudharyShubh&show_icons=true&theme=radical&hide_border=true" width="46.5%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamChoudharyShubh&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamChoudharyShubh&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamChoudharyShubh&theme=radical&hide_border=true" width="51%" alt="GitHub Streak" />
 </p>
 
 ## 🔗 Profile Visits:
