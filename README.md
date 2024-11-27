@@ -52,16 +52,14 @@ I'm a passionate **B.Tech student** specializing in **Computer Science and Busin
 ## 🔥 GitHub Activity Graph & Top Languages:
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="71%" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="27%" alt="Top Languages" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChoudharyShubh&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ## 📊 GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamChoudharyShubh&show_icons=true&theme=radical&hide_border=true" width="47.5%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamChoudharyShubh&theme=radical&hide_border=true" width="50%" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChoudharyShubh&layout=compact&theme=radical&hide_border=true" width="47.5%" alt="Top Languages" />
 </p>
 
 ## 🔗 Profile Visits:
